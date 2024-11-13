@@ -1,0 +1,54 @@
+.techFlex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.techInner {
+    margin: 10px;
+    border: 2px solid #5e24ca;
+    border-radius: 20px;
+    padding: 6px 16px;
+    box-sizing: border-box;
+    font-size: 10px;
+}
+
+.wording {
+    border: 2px solid #5e24ca;
+    border-radius: 10px;
+}
+
+.box {
+    color: #5e24ca;
+    margin: 0%;
+    text-align: center;
+
+}
+
+.image {
+    width: 35rem;
+    height: 25rem;
+    margin: 20px 0px 40px 100px;
+    border-radius: 30px;
+}
+
+.box1 {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.box2 {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.image1 {
+    width: 35rem;
+    height: 25rem;
+    margin: 20px 100px 40px 0px;
+    border-radius: 10px;
+}
