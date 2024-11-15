@@ -14,7 +14,6 @@ import { ProjectComponent } from './project/project.component';
 })
 export class AppComponent implements PipeTransform {
   logo = "assets/_Nafeesah.png"
-  heroImg = "assets/hero2.jpeg";
   myName: string = "Ibrahim Nofisat"
   title = "Front-end & Mobile app Developer"
   transform(value: any, ...args: any[]) {
